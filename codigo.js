@@ -24,3 +24,4 @@ let numero1 = 5;
 let numeroNaN = 'No soy un número';
 alert(numero1 + numeroNaN); // El programa hará una concatenación
 alert(numero1 * numeroNaN); // El programa enviará un NaN porque no puede multiplicar número con texto
+//

@@ -42,4 +42,17 @@
     -Como contenido en la etiqueta <script>
     -Como contenido en un archivo de formato .js (Forma recomentada)
     -Con un require (Se ve en módulos o en Vue.js)
-    
+
+4) Variables
+
+    -Concepto (IMG)
+    -Ejemplos
+    -Tipos de Datos: String (Cadena de texto), Number, Boolean, Symbol)
+(IMG)
+    -Casos especiales de datos: Undefined, Null, Nan; (IMG)
+    -Scope (IMG)
+    -Hoisting
+    -Tipos e variables (Let, Var y Const)
+    -Crear múltiples variables (Separándolas con coma) -> 
+        Let nombre1 = "Jorge", nombre2 = "Pedro";
+    -Pruebas con prompt
