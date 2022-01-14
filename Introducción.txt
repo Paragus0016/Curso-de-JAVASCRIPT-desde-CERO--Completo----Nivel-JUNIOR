@@ -37,3 +37,9 @@
     -Etc...
 
 3) Formas de enlazar JavaScript
+
+    -En linea
+    -Como contenido en la etiqueta <script>
+    -Como contenido en un archivo de formato .js (Forma recomentada)
+    -Con un require (Se ve en módulos o en Vue.js)
+    
